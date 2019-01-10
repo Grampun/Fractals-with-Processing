@@ -1,4 +1,4 @@
-#Fun-With-Fractals
+<b> Fractals using Processing </b>
 
 On partial fulfillment of my diploma in Creative Computing, one of my assignments was to use Processing (an open-source graphical library using Java), was to create our own l-system in order to show how different patterns could be created using a simple string rule. 
 
